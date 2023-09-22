@@ -5,8 +5,9 @@
 
 **Table of Contents**
 
-- [0.0.0 (2023-08-30)](#000-2023-08-30)
+- [0.0.0 (2023-09-22)](#000-2023-09-22)
   - [Bug Fixes](#bug-fixes)
+  - [Documentation](#documentation)
   - [Features](#features)
 - [0.11.1-alpha.0 (2023-03-09)](#0111-alpha0-2023-03-09)
   - [Bug Fixes](#bug-fixes-1)
@@ -14,68 +15,70 @@
   - [Features](#features-1)
   - [Tests](#tests)
 - [0.11.0-alpha.0 (2023-02-23)](#0110-alpha0-2023-02-23)
-  - [Bug Fixes](#bug-fixes-2)
   - [Code Generation](#code-generation-1)
+- [0.11.0-alpha.0.pre.1 (2023-02-23)](#0110-alpha0pre1-2023-02-23)
+  - [Bug Fixes](#bug-fixes-2)
+  - [Code Generation](#code-generation-2)
   - [Code Refactoring](#code-refactoring)
-  - [Documentation](#documentation)
+  - [Documentation](#documentation-1)
   - [Features](#features-2)
   - [Tests](#tests-1)
   - [Unclassified](#unclassified)
 - [0.10.0-alpha.0 (2022-09-27)](#0100-alpha0-2022-09-27)
   - [Bug Fixes](#bug-fixes-3)
   - [Build System](#build-system)
-  - [Code Generation](#code-generation-2)
+  - [Code Generation](#code-generation-3)
   - [Code Refactoring](#code-refactoring-1)
-  - [Documentation](#documentation-1)
+  - [Documentation](#documentation-2)
   - [Features](#features-3)
   - [Tests](#tests-2)
 - [0.9.0-alpha.0 (2022-08-01)](#090-alpha0-2022-08-01)
   - [Breaking Changes](#breaking-changes)
     - [Bug Fixes](#bug-fixes-4)
-    - [Code Generation](#code-generation-3)
+    - [Code Generation](#code-generation-4)
     - [Code Refactoring](#code-refactoring-2)
-    - [Documentation](#documentation-2)
+    - [Documentation](#documentation-3)
     - [Features](#features-4)
     - [Tests](#tests-3)
 - [0.8.0-alpha.2 (2022-03-04)](#080-alpha2-2022-03-04)
   - [Bug Fixes](#bug-fixes-5)
-  - [Code Generation](#code-generation-4)
-  - [Documentation](#documentation-3)
+  - [Code Generation](#code-generation-5)
+  - [Documentation](#documentation-4)
 - [0.8.0-alpha.1 (2022-02-22)](#080-alpha1-2022-02-22)
   - [Bug Fixes](#bug-fixes-6)
-  - [Code Generation](#code-generation-5)
+  - [Code Generation](#code-generation-6)
   - [Tests](#tests-4)
 - [0.8.0-alpha.0 (2022-02-10)](#080-alpha0-2022-02-10)
   - [Bug Fixes](#bug-fixes-7)
-  - [Code Generation](#code-generation-6)
+  - [Code Generation](#code-generation-7)
   - [Code Refactoring](#code-refactoring-3)
-  - [Documentation](#documentation-4)
+  - [Documentation](#documentation-5)
   - [Features](#features-5)
 - [0.7.0-alpha.1 (2021-10-19)](#070-alpha1-2021-10-19)
-  - [Code Generation](#code-generation-7)
-  - [Documentation](#documentation-5)
+  - [Code Generation](#code-generation-8)
+  - [Documentation](#documentation-6)
 - [0.7.0-alpha.0 (2021-10-06)](#070-alpha0-2021-10-06)
   - [Breaking Changes](#breaking-changes-1)
     - [Bug Fixes](#bug-fixes-8)
     - [Chores](#chores)
-    - [Code Generation](#code-generation-8)
+    - [Code Generation](#code-generation-9)
     - [Code Refactoring](#code-refactoring-4)
-    - [Documentation](#documentation-6)
+    - [Documentation](#documentation-7)
     - [Features](#features-6)
     - [Tests](#tests-5)
 - [0.6.0-alpha.3 (2021-04-29)](#060-alpha3-2021-04-29)
-  - [Code Generation](#code-generation-9)
+  - [Code Generation](#code-generation-10)
 - [0.6.0-alpha.2 (2021-04-29)](#060-alpha2-2021-04-29)
   - [Bug Fixes](#bug-fixes-9)
-  - [Code Generation](#code-generation-10)
-  - [Documentation](#documentation-7)
+  - [Code Generation](#code-generation-11)
+  - [Documentation](#documentation-8)
   - [Features](#features-7)
 - [0.6.0-alpha.1 (2021-04-07)](#060-alpha1-2021-04-07)
   - [Bug Fixes](#bug-fixes-10)
   - [Build System](#build-system-1)
-  - [Code Generation](#code-generation-11)
+  - [Code Generation](#code-generation-12)
   - [Code Refactoring](#code-refactoring-5)
-  - [Documentation](#documentation-8)
+  - [Documentation](#documentation-9)
   - [Features](#features-8)
   - [Tests](#tests-6)
 - [0.5.6-alpha.1 (2020-05-28)](#056-alpha1-2020-05-28)
@@ -84,26 +87,26 @@
 - [0.5.5-alpha.1 (2020-05-28)](#055-alpha1-2020-05-28)
   - [Bug Fixes](#bug-fixes-12)
   - [Chores](#chores-2)
-  - [Documentation](#documentation-9)
+  - [Documentation](#documentation-10)
 - [0.5.4-alpha.1 (2020-04-07)](#054-alpha1-2020-04-07)
   - [Bug Fixes](#bug-fixes-13)
 - [0.5.3-alpha.3 (2020-04-06)](#053-alpha3-2020-04-06)
-  - [Code Generation](#code-generation-12)
+  - [Code Generation](#code-generation-13)
   - [Code Refactoring](#code-refactoring-6)
-  - [Documentation](#documentation-10)
+  - [Documentation](#documentation-11)
 - [0.5.3-alpha.1 (2020-04-03)](#053-alpha1-2020-04-03)
   - [Chores](#chores-3)
 - [0.5.2 (2020-04-02)](#052-2020-04-02)
-  - [Documentation](#documentation-11)
+  - [Documentation](#documentation-12)
 - [0.5.0 (2020-04-02)](#050-2020-04-02)
   - [Bug Fixes](#bug-fixes-14)
-  - [Documentation](#documentation-12)
+  - [Documentation](#documentation-13)
 - [0.4.5-alpha.1 (2020-02-29)](#045-alpha1-2020-02-29)
   - [Bug Fixes](#bug-fixes-15)
-  - [Documentation](#documentation-13)
+  - [Documentation](#documentation-14)
 - [0.4.4-alpha.1 (2020-02-14)](#044-alpha1-2020-02-14)
   - [Bug Fixes](#bug-fixes-16)
-  - [Documentation](#documentation-14)
+  - [Documentation](#documentation-15)
   - [Features](#features-9)
   - [Unclassified](#unclassified-1)
 - [0.4.3-alpha.2 (2020-01-31)](#043-alpha2-2020-01-31)
@@ -123,40 +126,51 @@
 - [0.3.6-sandbox (2019-10-16)](#036-sandbox-2019-10-16)
   - [Unclassified](#unclassified-9)
 - [0.3.5-sandbox (2019-08-21)](#035-sandbox-2019-08-21)
-  - [Documentation](#documentation-15)
+  - [Documentation](#documentation-16)
   - [Unclassified](#unclassified-10)
 - [0.3.3-sandbox (2019-05-18)](#033-sandbox-2019-05-18)
   - [Continuous Integration](#continuous-integration)
-  - [Documentation](#documentation-16)
+  - [Documentation](#documentation-17)
 - [0.3.1-sandbox (2019-04-29)](#031-sandbox-2019-04-29)
   - [Continuous Integration](#continuous-integration-1)
-  - [Documentation](#documentation-17)
+  - [Documentation](#documentation-18)
   - [Unclassified](#unclassified-11)
 - [0.3.0-sandbox (2019-04-29)](#030-sandbox-2019-04-29)
-  - [Documentation](#documentation-18)
+  - [Documentation](#documentation-19)
   - [Unclassified](#unclassified-12)
 - [0.2.3-sandbox+oryOS.10 (2019-02-05)](#023-sandboxoryos10-2019-02-05)
-  - [Documentation](#documentation-19)
+  - [Documentation](#documentation-20)
   - [Unclassified](#unclassified-13)
 - [0.2.2-sandbox+oryOS.10 (2018-12-13)](#022-sandboxoryos10-2018-12-13)
   - [Continuous Integration](#continuous-integration-2)
 - [0.2.1-sandbox+oryOS.10 (2018-12-13)](#021-sandboxoryos10-2018-12-13)
   - [Continuous Integration](#continuous-integration-3)
 - [0.2.0-sandbox+oryOS.10 (2018-12-13)](#020-sandboxoryos10-2018-12-13)
-  - [Documentation](#documentation-20)
+  - [Documentation](#documentation-21)
   - [Unclassified](#unclassified-14)
 - [0.0.1 (2018-05-20)](#001-2018-05-20)
-  - [Documentation](#documentation-21)
+  - [Documentation](#documentation-22)
   - [Unclassified](#unclassified-15)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# [0.0.0](https://github.com/ory/keto/compare/v0.11.1-alpha.0...v0.0.0) (2023-08-30)
+# [0.0.0](https://github.com/ory/keto/compare/v0.11.1-alpha.0...v0.0.0) (2023-09-22)
 
 ### Bug Fixes
 
+- Add width limit when expanding subject-sets in checks
+  ([#1433](https://github.com/ory/keto/issues/1433))
+  ([f1317da](https://github.com/ory/keto/commit/f1317da16d6ebfac2ed1e80cf13c6b0d323314a1)):
+
+  This change limits the max width that can be expanded during checks. An
+  integration that runs into this limit would previously likely have timed out.
+  A correct integration should not run into this limit.
+
 - Incorrect error return ([#1332](https://github.com/ory/keto/issues/1332))
   ([fc09573](https://github.com/ory/keto/commit/fc09573d1bee14058e211303ea98604de4e795d6))
+- Missing block flag on migrate status
+  ([#1432](https://github.com/ory/keto/issues/1432))
+  ([040b3db](https://github.com/ory/keto/commit/040b3db104692f8b249f1c0476c3ab08384cffff))
 - Postgres docker-compose startup
   ([#1295](https://github.com/ory/keto/issues/1295))
   ([a4218d7](https://github.com/ory/keto/commit/a4218d70fed0e19eb61869f9ac9f55e2a9d54d0e)):
@@ -180,6 +194,19 @@
   ([#1278](https://github.com/ory/keto/issues/1278))
   ([d093b37](https://github.com/ory/keto/commit/d093b37930b9e203fd5eb14fe6ca6ba4b8154e92))
 
+### Documentation
+
+- Fix multiline comments from proto files breaking tables
+  ([#1431](https://github.com/ory/keto/issues/1431))
+  ([ef9132d](https://github.com/ory/keto/commit/ef9132da66487db078d53cbcf186451d695cc697)):
+
+  - Add markdown.tmpl file for bufbuild
+  - fix typo
+
+  Signed-off-by: Cléo Rebert <cleo.rebert-ext@numspot.com>
+
+  - docs: add issue reference
+
 ### Features
 
 - Add distroless ([#1348](https://github.com/ory/keto/issues/1348))
@@ -201,6 +228,9 @@
 - Allow extra database migrations
   ([#1365](https://github.com/ory/keto/issues/1365))
   ([d3b62a9](https://github.com/ory/keto/commit/d3b62a9d0c3debec12faa287106be9faaa74b60b))
+- Cache OPL when loading from HTTP(S)
+  ([#1429](https://github.com/ory/keto/issues/1429))
+  ([b89ce02](https://github.com/ory/keto/commit/b89ce028158f2c0efd469a5f8275a7fd203e1b29))
 - Clearer error messages when not using block
   ([#1393](https://github.com/ory/keto/issues/1393))
   ([a3b5494](https://github.com/ory/keto/commit/a3b5494300ca4cc64b516b168e8a3e6aa2033c75)):
@@ -268,7 +298,7 @@ This release includes small fixes and improvements.
 - Faster tests ([#1266](https://github.com/ory/keto/issues/1266))
   ([b41bfb8](https://github.com/ory/keto/commit/b41bfb8da04882f2c94d9a3f787bc4cf2f51f1b9))
 
-# [0.11.0-alpha.0](https://github.com/ory/keto/compare/v0.10.0-alpha.0...v0.11.0-alpha.0) (2023-02-23)
+# [0.11.0-alpha.0](https://github.com/ory/keto/compare/v0.11.0-alpha.0.pre.1...v0.11.0-alpha.0) (2023-02-23)
 
 This release includes a ton of bugfixes, especially around the Ory Permission
 Language and language parser.
@@ -279,6 +309,15 @@ performed during checks. This is experimental to allow adjusting its behavior in
 a breaking manner, but it is ready for production usage. Do expect a non-stable
 behavior over the next releases. Any breaking behavior will be properly
 documented. Further, we also optimized some of the non-strict queries.
+
+### Code Generation
+
+- Pin v0.11.0-alpha.0 release commit
+  ([7f1f580](https://github.com/ory/keto/commit/7f1f5805f0b6fff68c99a586b55b26a27b91a999))
+
+# [0.11.0-alpha.0.pre.1](https://github.com/ory/keto/compare/v0.10.0-alpha.0...v0.11.0-alpha.0.pre.1) (2023-02-23)
+
+autogen: pin v0.11.0-alpha.0.pre.1 release commit
 
 ### Bug Fixes
 
@@ -352,8 +391,8 @@ documented. Further, we also optimized some of the non-strict queries.
 
 ### Code Generation
 
-- Pin v0.11.0-alpha.0 release commit
-  ([7f1f580](https://github.com/ory/keto/commit/7f1f5805f0b6fff68c99a586b55b26a27b91a999))
+- Pin v0.11.0-alpha.0.pre.1 release commit
+  ([3fb1ca5](https://github.com/ory/keto/commit/3fb1ca58c7f9aadbd3f9fdb1015d3d7dda07cd37))
 
 ### Code Refactoring
 
@@ -542,6 +581,9 @@ changelog for all the other fixes and features we included.
   ([52259a3](https://github.com/ory/keto/commit/52259a30d0be0257f1bb7ef591ae769808450230)):
 
   Bumps from v0.10.0-alpha.0.pre.0
+
+- Pin v0.10.0-alpha.0.pre.1 release commit
+  ([2a63481](https://github.com/ory/keto/commit/2a63481863b9d10d05744178a78042a44e9e3872))
 
 ### Code Refactoring
 
